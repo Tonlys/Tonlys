@@ -2,9 +2,9 @@
 
 ### A young software lover in Turkey.
 
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iawoken&theme=dark&show_icons=true&locale=en&layout=compact" alt="iawoken" /></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonlys&theme=dark&show_icons=true&locale=en&layout=compact" alt="Tonlys" /></p>
 
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iawoken&theme=dark&show_icons=true&locale=en" alt="iawoken"  ></p>
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=tonlys&theme=dark&show_icons=true&locale=en" alt="Tonlys"  ></p>
 
 Hello, I am a 17 year old developer.\
 I usually develop bots with [Node.JS](https://nodejs.org/en/docs/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) technologies.\
