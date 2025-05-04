@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=tonlys&theme=dark&show_icons=true&locale=en" alt="Tonlys"  ></p>
 
-Hello, I am a 18 year old developer.\
+Hello, I am a 21 year old developer.\
 I usually develop bots with [Node.JS](https://nodejs.org/en/docs/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) technologies.\
 I usually do back-end programming, front-end is not very interesting to me.\
 I like to listen to music while dealing with software.\
